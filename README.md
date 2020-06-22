@@ -1,2 +1,1 @@
-# FlutterChatApp
-Group chat app developed using Firebase SDK integration with Flutter.
+A group chat Flutter application with user authentication and push notifications enabled.
